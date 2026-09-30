@@ -51,7 +51,7 @@
   {"name": "Lethal Company", "ids": ["1167674267748540516"], "exe": {"win32": ["lethal company.exe"]}},
   {"name": "Lost Ark", "ids": ["940810636273795162"], "exe": {"win32": ["lostark.exe"]}},
   {"name": "Marvel Rivals", "ids": ["1314395942253756416"], "exe": {"win32": ["marvel-win64-shipping.exe", "marvel.exe"]}},
-  {"name": "Minecraft", "ids": ["1402418491272986635"], "exe": {"win32": ["minecraft.windows.exe"]}},
+  {"name": "Minecraft", "ids": ["1402418491272986635", "608012526537408579"], "exe": {"win32": ["minecraft.windows.exe"]}},
   {"name": "Monster Hunter Wilds", "ids": ["1344912009807794256"], "exe": {"win32": ["monsterhunterwilds.exe"]}},
   {"name": "No Man's Sky", "ids": ["443159611479031808"], "exe": {"win32": ["nms.exe"]}},
   {"name": "Old School RuneScape", "ids": ["1180205756998488064"], "exe": {"win32": ["osclient.exe"]}},
