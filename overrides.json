@@ -95,7 +95,7 @@
   {"name": "War Thunder", "ids": ["357607478105604096"], "exe": {"win32": ["aces.exe"]}},
   {"name": "Warframe", "ids": ["1402418586244612216"], "exe": {"win32": ["warframe.exe", "warframe.x64.exe"]}},
   {"name": "World of Tanks", "ids": ["1402418078813523999"], "exe": {"win32": ["worldoftanks.exe"]}},
-  {"name": "World of Warcraft", "ids": ["356875762940379136"], "exe": {"win32": ["wow-64.exe", "wow.exe"], "darwin": ["world of warcraft.app"]}},
+  {"name": "World of Warcraft", "ids": ["356875762940379136", "805124430774272000"], "exe": {"win32": ["wow-64.exe", "wow.exe"], "darwin": ["world of warcraft.app"]}},
   {"name": "Figma", "kind": "app", "ids": [], "exe": {"win32": ["figma.exe"], "darwin": ["figma.app"]}},
   {"name": "Visual Studio Code", "kind": "app", "ids": [], "exe": {"win32": ["code.exe"], "darwin": ["visual studio code.app"], "linux": ["code"]}},
   {"name": "Blender", "kind": "app", "ids": [], "exe": {"win32": ["blender.exe"], "darwin": ["blender.app"], "linux": ["blender"]}},
